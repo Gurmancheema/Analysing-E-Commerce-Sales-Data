@@ -19,3 +19,5 @@ Both files were imported into Power BI, a powerful data visualization tool, to f
 <p align="center">
   <img width="650" height="300" src="ss 2.png">
 </p>
+## 3. Feature engineering
+
