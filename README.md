@@ -17,5 +17,5 @@ Data used for this analysis was obtained from Kaggle. The dataset consists of tw
 
 Both files were imported into Power BI, a powerful data visualization tool, to facilitate data exploration and analysis.
 <p align="center">
-  <img width="800" height="450" src="ss 2.png">
+  <img width="450" height="450" src="ss 2.png">
 </p>
